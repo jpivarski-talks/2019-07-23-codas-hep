@@ -1,0 +1,24 @@
+name:
+  - codashep-python-columnar
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - uproot
+  - pandas
+  - matplotlib
+  - iminuit
+  - scikit-learn
+  - pip:
+      - pyjet
+      - particle
+      - pyhf
+      - root_numpy
+  - numba
+  - dask
+  - python-graphviz
+  - cython
+  - pybind11
+  - root
+  - h5py
+  - pyarrow

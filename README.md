@@ -8,13 +8,13 @@ Jim's tutorials for CoDaS-HEP:
 
 ## How to participate
 
-Launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) as discussed in the CoDaS-HEP setup session. Open a terminal and type
+Launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) as discussed in the CoDaS-HEP setup session. Open a terminal and type (once)
 
 ```bash
 git clone https://github.com/jpivarski/2019-07-23-codas-hep.git
 ```
 
-then navigate in the file view (left sidebar) for `01-scientific-python-ecosystem.ipynb`. Under the **Kernel** menu, select **Change Kernel...** and pick the first option: "Python [conda env:codas-hep]".
+then navigate in the file view (left sidebar) for `2019-07-23-codas-hep/01-scientific-python-ecosystem.ipynb`. Under the **Kernel** menu, select **Change Kernel...** and pick the first option: "Python [conda env:codas-hep]" (each time you open a notebook).
 
 Then follow along in the notebook while I present the same material as slides as a lecture. We can both change any cell to explore these topics interactively.
 
@@ -30,7 +30,7 @@ If the above doesn't work for you, click the button below.
 
 Binder is free and public but doesn't let you save data and may be a little slow. However, you don't need to do the `git clone` or **Change Kernel...** The notebooks are ready to use after Binder launches (takes a minute or two).
 
-## To get this software 
+## To get this software on your laptop
 
 You might want to install some or all of this software on your laptop for later use. All of it can be installed using [conda](https://docs.conda.io/en/latest/miniconda.html) (except ROOT if you are using Windows) and [pip](https://realpython.com/what-is-pip) (except ROOT on all systems). ROOT can be manually installed [from here](https://root.cern/content/release-61800) (we use features from 6.18/00, the latest release).
 

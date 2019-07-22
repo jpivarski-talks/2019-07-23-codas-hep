@@ -18,7 +18,7 @@ to run it on Binder (free, public, but no saving of data and might be slow).
 
 ## To get this software 
 
-You might want to install some or all of this software on your laptop for later use. All of it can be installed using [conda](https://docs.conda.io/en/latest/miniconda.html) (except ROOT if you are using Windows) and [pip](https://realpython.com/what-is-pip) (except ROOT on all systems). ROOT can be manually installed from the [ROOT website](https://root.cern/content/release-61800) (we use features from 6.18/00, the latest release).
+You might want to install some or all of this software on your laptop for later use. All of it can be installed using [conda](https://docs.conda.io/en/latest/miniconda.html) (except ROOT if you are using Windows) and [pip](https://realpython.com/what-is-pip) (except ROOT on all systems). ROOT can be manually installed [from here](https://root.cern/content/release-61800) (we use features from 6.18/00, the latest release).
 
 You can pick and choose packages from [environment.yml](environment.yml) or you can install them all in an isolated environment (that can be removed at any time with `conda remove --name codashep-python-columnar --all`) with the following:
 

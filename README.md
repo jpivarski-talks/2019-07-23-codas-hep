@@ -8,10 +8,12 @@ Jim's tutorials for CoDaS-HEP:
 
 ## How to participate
 
-Launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) as discussed in the CoDaS-HEP setup session. Open a terminal and type (once)
+Launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) as discussed in the CoDaS-HEP setup session. Open a terminal and type (first time only)
 
 ```bash
 git clone https://github.com/jpivarski/2019-07-23-codas-hep.git
+conda install -y -c conda-forge pyarrow
+pip install root_numpy
 ```
 
 then navigate in the file view (left sidebar) for `2019-07-23-codas-hep/01-scientific-python-ecosystem.ipynb`. Under the **Kernel** menu, select **Change Kernel...** and pick the first option: "Python [conda env:codas-hep]" (each time you open a notebook).
@@ -28,7 +30,7 @@ If the above doesn't work for you, click the button below.
   </a>
 </p>
 
-Binder is free and public but doesn't let you save data and may be a little slow. However, you don't need to do the `git clone` or **Change Kernel...** The notebooks are ready to use after Binder launches (takes a minute or two).
+Binder is free and public but doesn't let you save data and may be a little slow. However, you don't need to do anything with the terminal or **Change Kernel...** The notebooks are ready to use after Binder launches (takes a minute or two).
 
 ## To get this software on your laptop
 

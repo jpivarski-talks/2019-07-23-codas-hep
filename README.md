@@ -8,7 +8,7 @@ Jim's tutorials for CoDaS-HEP:
 
 To participate, either launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) (as discussed in the CoDaS-HEP setup session) or press this button
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/jpivarski/2019-07-23-codas-hep.git/0.1?urlpath=lab)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/jpivarski/2019-07-23-codas-hep.git/0.1?urlpath=lab/tree/01-scientific-python-ecosystem.ipynb)
 
 to run it on Binder (free, public, but no saving of data and can be slow).
 

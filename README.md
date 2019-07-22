@@ -6,7 +6,7 @@ Jim's tutorials for CoDaS-HEP:
    * [Columnar Data Analysis](https://indico.cern.ch/event/814979/timetable/#41-columnar-data-analysis), Wednesday, July 24, 2019 (same location).
    * [Accelerating Python](https://indico.cern.ch/event/814979/timetable/#12-accelerating-python), Wednesday, July 24, 2019 (same location).
 
-To participate, either launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) (as discussed in the CoDaS-HEP setup session) or press this button
+To participate, either launch a [private JupyterLab through SSL](https://ml-front.nautilus.optiputer.net/) (as discussed in the CoDaS-HEP setup session) or press
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-07-23-codas-hep/0.2?urlpath=lab)
                            

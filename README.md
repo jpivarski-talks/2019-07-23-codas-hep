@@ -11,7 +11,7 @@ Jim's tutorials for CoDaS-HEP:
 Press this button:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski/2019-07-23-codas-hep/0.2?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/jpivarski/2019-07-23-codas-hep/0.3?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>

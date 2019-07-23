@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 COPYOVER*.ipynb
 tmp.parquet
+tmp.root

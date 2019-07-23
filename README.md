@@ -16,7 +16,7 @@ Press this button:
   </a>
 </p>
 
-The exercises will run on a free public cloud service, which does not save and takes a minute or two to start up.
+The exercises will run on a free public cloud service, which cannot save data and may take a minute or two to start up.
 
 Navigate in the JupyterLab file view (left sidebar) to the desired lesson.
 

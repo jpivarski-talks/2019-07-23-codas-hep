@@ -4,3 +4,7 @@ tmp.parquet
 tmp.root
 cpp_calculate.cpp
 cpp_calculate.cpython*.so
+global.lock
+mydask.png
+purge.lock
+worker-*.dirlock

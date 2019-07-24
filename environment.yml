@@ -22,3 +22,4 @@ dependencies:
       - particle
       - pyhf
       - root_numpy
+      - coffea
